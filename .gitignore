@@ -1,0 +1,13 @@
+# Always ignore build outputs
+bin/
+obj/
+
+# Ignore IDE files (VS Code / Visual Studio)
+.vscode/
+.vs/
+*.user
+*.suo
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
