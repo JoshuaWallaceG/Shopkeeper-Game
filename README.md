@@ -1,3 +1,17 @@
-A text-based C# RPG inspired by Oregon Trail, where heroes visit your shop to trade gear as you prepare for the coming war.
 
-I built object-oriented character/item systems, randomized trade encounters, inventory management, and terminal dialogue animations.
+# The Shopkeeper
+A terminal-based C# RPG inspired by Oregon Trail, where you run a shop, trade with adventurers, and try to turn a profit.
+
+## Features
+- Day-by-day progression over 15 days
+- Randomized heroes, items, and events
+- Dynamic trading and inventory management
+- Unique Warrior, Mage, and Rogue personalities
+- Object-oriented design using inheritance and polymorphism
+
+## How to Run
+Build and run the project using your preferred C# development environment.
+
+## Built With
+- C#
+- .NET Console Application
