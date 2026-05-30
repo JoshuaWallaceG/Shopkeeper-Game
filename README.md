@@ -11,7 +11,7 @@ A terminal-based C# RPG inspired by Oregon Trail, where you run a shop, trade wi
 ## How to Run
 Build and run the project using your preferred C# development environment.
 
-## Technical
+## Technical Concepts
 - Object-Oriented Programming (OOP)
 - Abstract Classes, Inheritance, and Polymorphism
 - Factory-Style Object Generation
